@@ -4,12 +4,10 @@
 <header class="av-header">
     <nav class="navbar fixed-top navbar-expand-lg bg-dark">
         <div class="container-fluid" style='max-width: 1140px'>
-            <div class="navbar-translate"><a class="navbar-brand" href="index.html">
-                    <noscript><img class="img-responsive" src="wp-content/themes/animevibe/assets/img/logo/180x180.png"/>
+            <div class="navbar-translate"><a class="navbar-brand" href="#">
+                    <noscript><img class="img-responsive" height=40 width=40
+                                   src="picture_for_web/sajid.jpg"/>
                     </noscript>
-                    <img class="lazyload img-responsive"
-                         src='data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20210%20140%22%3E%3C/svg%3E'
-                         data-src="wp-content/themes/animevibe/assets/img/logo/180x180.png"/></a>
                 <button class="navbar-toggler" type="button" data-toggle="collapse" aria-expanded="false"
                         aria-label="Toggle navigation"><span class="sr-only">Toggle navigation</span> <span
                             class="navbar-toggler-icon"></span> <span class="navbar-toggler-icon"></span> <span
@@ -18,26 +16,24 @@
             <div class="collapse navbar-collapse">
                 <ul class="navbar-nav">
                     <li class="nav-item mob-av">
-                        <center><a class="navbar-brand" href="index.html">
+                        <center><a class="navbar-brand" href="#">
                                 <noscript><img height=40 width=40
-                                               src="wp-content/themes/animevibe/assets/img/logo/90x90.png"/></noscript>
+                                               src="picture_for_web/sajid.jpg"/></noscript>
                                 <img class="lazyload" height=40 width=40
-                                     src='data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20210%20140%22%3E%3C/svg%3E'
-                                     data-src="wp-content/themes/animevibe/assets/img/logo/90x90.png"/></a></center>
+                                     src='picture_for_web/sajid.jpg'
+                                     data-src="picture_for_web/sajid.jpg"/></a></center>
                     </li>
-                    <li class="nav-item"><a href="index.html" class="nav-link"><i class="fa fa-home"
+                    <li class="nav-item"><a href="#" class="nav-link"><i class="fa fa-home"
                                                                                   aria-hidden="true"></i>Home</a></li>
                     <li class="nav-item dropdown"><a class="nav-link dropdown-toggle" href="#"
                                                      id="navbarDropdownMenuLink" data-toggle="dropdown"
                                                      aria-haspopup="true" aria-expanded="false"><i
                                     class="fa fa-list-ul fa-sm" aria-hidden="true"></i> Browse </a>
                         <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink"><a class="dropdown-item"
-                                                                                               href="browse-anime/indexe590.html?order=ranked&amp;lang=lang-both">Anime
-                                Filter</a> <a class="dropdown-item" href="browse-anime/index.html">Recently Updated</a> <a
-                                    class="dropdown-item" href="index98d2.html?random=1">Surprise me! (Random)</a></div>
-                    </li>
-                    <li class="nav-item"><a href="donate/index.html" class="nav-link"><i class="fa fa-heart"
-                                                                                         aria-hidden="true"></i>Donate</a>
+                                                                                               href="#">Anime
+                                Filter</a> <a class="dropdown-item" href="#">Recently Updated</a>
+                            <a
+                                    class="dropdown-item" href="#?random=1">Surprise me! (Random)</a></div>
                     </li>
                     <li class="nav-item mob-av toggle-search"><a target=_blank style="cursor: pointer;"
                                                                  data-toggle="modal" data-target="#mobile-search"
@@ -49,14 +45,13 @@
                                                      aria-haspopup="true" aria-expanded="false"><i
                                     class="fa fa-question-circle fa-sm" aria-hidden="true"></i> Info </a>
                         <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink"><a class="dropdown-item"
-                                                                                               href="https://cdn-103.animevibe.wtf/faq.html"
+                                                                                               href="https://www.reddit.com/r/anime/wiki/faq"
                                                                                                target="_blank">FAQ</a>
-                            <a class="dropdown-item" href="#" data-toggle="modal" data-target="#fix-embed">Fix Embed
-                                Blocked</a> <a class="dropdown-item" href="https://bit.ly/3eRhNVC" target="_blank">Report
-                                Broken Episode</a> <a class="dropdown-item" href="discord/index.html">Discord</a> <a
-                                    class="dropdown-item" href="dmca/index.html">DMCA</a> <a class="dropdown-item"
-                                                                                             href="comment-policy/index.html">Comment
-                                Policy</a> <a class="dropdown-item" href="privacy-policy/index.html">Privacy Policy</a>
+                             <a class="dropdown-item" href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjRmKL2weHsAhUxjuYKHZa8DKsQFjAAegQIGxAC&url=https%3A%2F%2Fwww.google.com%2Fgmail%2F&usg=AOvVaw3mZ_qbD_gQyp_sqkjrwStn" target="_blank">Report
+                                Broken Episode</a> <a class="dropdown-item" href="https://discord.com/">Discord</a> <a
+                                    class="dropdown-item" href="dmca/#">DMCA</a> <a class="dropdown-item"
+                                                                                             href="#">Comment
+                                Policy</a>
                         </div>
                     </li>
                     <li class="nav-item dropdown"><a class="nav-link dropdown-toggle" href="#"
@@ -65,9 +60,9 @@
                                     class="fa fa-external-link-square fa-sm" aria-hidden="true"></i> Extensions </a>
                         <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink"><a class="dropdown-item"
                                                                                                href="https://lite.animevibe.tv/">AnimeVibe
-                                Lite</a> <a class="dropdown-item" href="watch-hentai/index.html">Watch Hentai</a></div>
+                                Lite</a> </div>
                     </li>
-                    <li class="nav-item toggle-search"><a href="profile/index9c18.html?tab=profile" class="nav-link"><i
+                    <li class="nav-item toggle-search"><a href="registraation.php" class="nav-link"><i
                                     class="fa fa-user" aria-hidden="true"></i> Profile</a></li>
                 </ul>
                 <form class="form-inline ml-auto has-white" role="search" method="get" id="searchform"

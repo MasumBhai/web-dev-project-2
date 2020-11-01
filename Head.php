@@ -34,38 +34,6 @@
     <script src="https://www.google.com/recaptcha/api.js" async defer></script>
     <!--    For Sweet Alert-->
     <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
-    <!--        for mapBox-->
-    <!--    <script src='https://api.mapbox.com/mapbox-gl-js/v1.12.0/mapbox-gl.js'></script>-->
-    <!--    <link href='https://api.mapbox.com/mapbox-gl-js/v1.12.0/mapbox-gl.css' rel='stylesheet'/>-->
-    <!--        for mapQuest-->
-    <!--    <script src="https://api.mqcdn.com/sdk/mapquest-js/v1.3.2/mapquest.js"></script>-->
-    <!--    <link type="text/css" rel="stylesheet" href="https://api.mqcdn.com/sdk/mapquest-js/v1.3.2/mapquest.css"/>-->
-    <!--    <script type="text/javascript">-->
-    <!--        window.onload = function() {-->
-    <!--            L.mapquest.key = 'lYrP4vF3Uk5zgTiGGuEzQGwGIVDGuy24';-->
-    <!---->
-    <!--            var map = L.mapquest.map('map', {-->
-    <!--                center: [23.872007999999997, 90.4072688],-->
-    <!--                layers: L.mapquest.tileLayer('map'),-->
-    <!--                zoom: 17-->
-    <!--            });-->
-    <!---->
-    <!--            map.addControl(L.mapquest.control());-->
-    <!--        }-->
-    <!--    </script>-->
-
-    <!--Link to CSS for Styling-->
-    <!--    <style type="text/css">-->
-    <!--        body {-->
-    <!--            font-family: 'Georgia', 'sans-serif';-->
-    <!--            font-style: italic;-->
-    <!--            /*src: local(font-face"Georgia");*/-->
-    <!--            font-weight: 500;-->
-    <!--            scroll-behavior: smooth;-->
-    <!--        }-->
-    <!--    </style>-->
-    <!--for manual css file-->
-    <!--    <link rel="stylesheet" type = "text/css" href="comment_form.css" >-->
     <!--    <link rel="stylesheet" type="text/css" href="Stylee.css">-->
     <!--For Title-->
     <title>Anime Website By Sajid</title>
@@ -79,7 +47,7 @@ require_once "Headerr.php";
 <div class="alert alert-success alert-dismissible" style="border-radius: 6px;"><a href="#" class="close"
                                                                                   data-dismiss="alert"
                                                                                   aria-label="close">&times;</a>
-    <strong>Welcome back to AnimeVibe!</strong> <a href="/welcome/" class="alert-link">Click Here to Read More</a>
+    <strong>Welcome back to Sajid Anime!</strong> <a href="#" class="alert-link">Click Here to Enjoy</a>
 </div>
 <?php
 

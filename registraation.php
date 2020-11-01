@@ -1,8 +1,10 @@
 <?php
-require_once "Head.php";
+require_once "head_For_signIn_Login.php";
 ?>
-<div class="form-wrapper02">
-    <form action="Registration_process.php" method="post" enctype='multipart/form-data'>
+<body>
+<div style="text-align: right"><span><h5>Already Have an Account?... <a href="">Click Here</a></h5></span></div>
+<div class="form-wrapper-of-Registration">
+    <form action="Log_In.php" method="post" enctype='multipart/form-data'>
         <div class="container login-left">
             <div class = "login-box">
                 <div class="row">
@@ -26,7 +28,7 @@ require_once "Head.php";
                         <input class="form-control" id="cpassword"  type="password" name="cpassword" required>
 
                         <label for="image"><b>Upload Your Profile Pic</b></label>
-                        <input id="image"  type="file" class="form-control" name="image" data-height="500" required>
+                        <input id="image"  type="file" class="form-control" name="image" data-height="500">
 
                         <div class="form-group">
                             <label for="g-recaptcha"><b>Recaptcha</b></label>
@@ -38,14 +40,18 @@ require_once "Head.php";
                         </div>
 
                         <hr class="mb-3">
-                        <input class="btn btn-primary" type="submit" id="register" name="create" value="Sign Up">
+                        <input class="btn btn-primary" type="submit" onkeypress="swal({
+                                    title: "Good job!",
+                        text: "You clicked the button!",
+                        icon: "success",
+                        button: "Aww yiss!",
+                        });" id="register" name="create" value="Sign Up">
                     </div>
                 </div>
             </div>
         </div>
     </form>
 </div>
-
-<?php
-require_once "Footer.php";
-?>
+<hr class="bg-light">
+</body>
+</html>

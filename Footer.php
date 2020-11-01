@@ -16,41 +16,39 @@
                              src='data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20210%20140%22%3E%3C/svg%3E'
                              data-src='https://media.discordapp.net/attachments/576020164403920907/581092016847323148/awd2.png?width=403&height=403'
                              height=60 width=auto> </a> <br>
-                    <p>AnimeVibe - Watch Anime not Advertisements | Watch Subbed &amp; Dubbed Animes Online</p></div>
+                    <p>Watch Anime not Advertisements | Watch Subbed &amp; Dubbed Animes Online</p></div>
                 <div class='col-md-3 d-none d-sm-block'><h5 class='oswald'>Anime</h5>
                     <ul class='links-vertical'>
-                        <li class='pl-2'><a href='https://lite.animevibe.tv/s2/'> AnimeVibe Lite </a></li>
-                        <li class='pl-2'><a href='browse-anime/index.html'> Browse Anime </a></li>
-                        <li class='pl-2'><a href='browse-anime/index.html'> Recently Updated Anime </a></li>
-                        <li class='pl-2'><a href='random/index708a.html?=1'> Random </a></li>
+                        <li class='pl-2'><a href='#'> Anime Blog </a></li>
+                        <li class='pl-2'><a href='#'> Browse Anime </a></li>
+                        <li class='pl-2'><a href='#'> Recently Updated Anime </a></li>
+                        <li class='pl-2'><a href='#'> Random </a></li>
                     </ul>
                 </div>
                 <div class='col-md-3 d-none d-sm-block'><h5 class='oswald'>Trending</h5>
                     <ul class='links-vertical'>
-                        <li class='pl-2'><a href='https://animevibe.tv/ani/one-punch-man/'> One Punch Man </a></li>
+                        <li class='pl-2'><a href='https://www.kiss-anime.ws/Anime/dragon-ball-super'> Dragon Ball Super </a></li>
                         <li class='pl-2'><a
-                                href='https://animevibe.tv/ani/kaguya-sama-wa-kokurasetai-tensai-tachi-no-renai-zunousen-2/'>
+                                href='https://www.kiss-anime.ws/Anime/kaguya-sama-wa-kokurasetai-tensai-tachi-no-renai-zunousen'>
                                 Kaguya-sama wa Kokuras... </a></li>
-                        <li class='pl-2'><a href='https://animevibe.tv/ani/kingdom-3rd-season/'> Kingdom 3rd Season </a>
+                        <li class='pl-2'><a href='https://www.kiss-anime.ws/Anime/rezero-kara-hajimeru-isekai-seikatsu'> Re:zero </a>
                         </li>
                         <li class='pl-2'><a href='https://animevibe.tv/ani/one-piece/'> One Piece </a></li>
-                        <li class='pl-2'><a href='https://animevibe.tv/ani/toaru-kagaku-no-railgun-t/'> Toaru Kagaku no
-                                Railgun T </a></li>
+                        <li class='pl-2'><a href='https://www.kiss-anime.ws/Anime/shingeki-no-kyojin-season-3'> Atack On Titan Season 3 </a></li>
                     </ul>
                 </div>
                 <div class='col-md-3'><h5 class='oswald'>Info</h5>
                     <ul class='links-vertical'>
-                        <li class='pl-2'><a href="watch-hentai/index.html"> Watch Hentai </a></li>
                         <li class='pl-2'><a href="#" data-toggle="modal" data-target="#fix-embed"> Fix Embed
                                 Blocked </a></li>
                         <li class='pl-2'><a href='discord/index.html'> Discord </a></li>
                         <li class='pl-2'><a href='dmca/index.html'> DMCA </a></li>
-                        <li class='pl-2'><a href='privacy-policy/index.html'> Privacy Policy </a></li>
+                        <li class='pl-2'><a href='#'> Privacy Policy </a></li>
                     </ul>
                 </div>
             </div>
         </div>
-
+        <hr class="bg-dark">
         <div class="container-fluid p-0">
             <div class="row text-left">
                 <div class="col-md-5">
@@ -58,7 +56,7 @@
                     <p class="text-muted">Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis, nihil.</p>
                     <p class="pt-4 text-muted">
                         Copyright ©2020 || All Rights Reserved | This template is made by
-                        <span>Abdulllah Al Masum</span>
+                        <span>Sajid Hoassin</span>
                     </p>
                 </div>
                 <div class="col-md-5">
@@ -83,7 +81,7 @@
 
                 <div class="col-md-2 col-sm-12">
 
-                    <h4 class="text-light">Follow Us</h4>
+                    <h4 class="text-light">Follow Me</h4>
                     <p class="text-muted">Let us be social</p>
                     <div class="column">
                         <i class="fab fa-facebook"></i>
@@ -99,7 +97,7 @@
         </div>
 
         <hr class='bg-dark'>
-        <div class='copyright pull-center'> © AnimeVibe.tv | ProjectVibe 2018 -
+        <div class='copyright pull-center'> © Sajid-animation | ProjectWork 2020 -
             <script>
                 document.write(new Date().getFullYear())
             </script>
