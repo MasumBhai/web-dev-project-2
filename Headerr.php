@@ -62,7 +62,7 @@
                                                                                                href="https://lite.animevibe.tv/">AnimeVibe
                                 Lite</a> </div>
                     </li>
-                    <li class="nav-item toggle-search"><a href="registraation.php" class="nav-link"><i
+                    <li class="nav-item toggle-search"><a href="index.php" class="nav-link"><i
                                     class="fa fa-user" aria-hidden="true"></i> Profile</a></li>
                 </ul>
                 <form class="form-inline ml-auto has-white" role="search" method="get" id="searchform"
