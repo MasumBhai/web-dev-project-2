@@ -22,7 +22,9 @@ require_once "Head.php";
         <div class="col-md-4 col-12 text-center">
             <div class="card mr-2 d-inline-block shadow-lg">
                 <div class="card-img-top">
-                    <img src="picture_for_web/spIrited_away.jpg" alt="raiyan-sir" class="img-fluid border-radius p-4">
+                    <a href="videoPlay.php">
+                    <img src="picture_for_web/spIrited_away.jpg" alt="Spirited Away" class="img-fluid border-radius p-4">
+                    </a>
                 </div>
                 <div class="card-body">
                     <h3 class="card-title">Newest</h3>
@@ -41,8 +43,9 @@ require_once "Head.php";
                         <!-- Card 2 -->
                         <div class="card mr-2 d-inline-block shadow-lg">
                             <div class="card-img-top">
-                                <img src="picture_for_web/whisper.jpg" alt="muha-sir"
-                                     class="img-fluid border-radius p-4">
+                                <a href="videoPlay.php">
+                                <img src="picture_for_web/whisper.jpg" alt="Whisper of the heart" class="img-fluid border-radius p-4">
+                                </a>
                             </div>
                             <div class="card-body">
                                 <h3 class="card-title">Trending</h3>
@@ -59,8 +62,10 @@ require_once "Head.php";
                         <!-- Card 3 -->
                         <div class="card mr-2 d-inline-block shadow-lg">
                             <div class="card-img-top">
-                                <img src="picture_for_web/my_neighbour_totaro.jpg" alt="animation picure"
+                                <a href="videoPlay.php">
+                                <img src="picture_for_web/my_neighbour_totaro.jpg" alt="my neighbour totaro"
                                      class="img-fluid border-radius p-4">
+                                </a>
                             </div>
                             <div class="card-body">
                                 <h3 class="card-title">Trending</h3>
@@ -75,8 +80,10 @@ require_once "Head.php";
                         <!-- Card 4 -->
                         <div class="card mr-2 d-inline-block shadow-lg">
                             <div class="card-img-top">
+                                <a href="videoPlay.php">
                                 <img src="picture_for_web/wind_Rises.jpg" alt="animation picure"
                                      class="img-fluid border-radius p-4">
+                                </a>
                             </div>
                             <div class="card-body">
                                 <h3 class="card-title">Trending</h3>
@@ -91,7 +98,9 @@ require_once "Head.php";
                         <!-- Card 5-->
                         <div class="card mr-2 d-inline-block shadow-lg">
                             <div class="card-img-top">
+                                <a href="videoPlay.php">
                                 <img src="picture_for_web/howls-moving-castle-poster.jpg" alt="animation picure" class="img-fluid border-radius p-4">
+                                </a>
                             </div>
                             <div class="card-body">
                                 <h3 class="card-title">Trending</h3>
@@ -106,7 +115,9 @@ require_once "Head.php";
                         <!-- Card 6-->
                         <div class="card mr-2 d-inline-block shadow-lg">
                             <div class="card-img-top">
+                                <a href="videoPlay.php">
                                 <img src="picture_for_web/aladin.jpg" alt="animation picure" class="img-fluid border-radius p-4">
+                                </a>
                             </div>
                             <div class="card-body">
                                 <h3 class="card-title">Trending</h3>
@@ -121,7 +132,9 @@ require_once "Head.php";
                         <!-- Card 7-->
                         <div class="card mr-2 d-inline-block shadow-lg">
                             <div class="card-img-top">
+                                <a href="videoPlay.php">
                                 <img src="picture_for_web/inThisCornarOfTheWorld.webp" alt="animation picure" class="img-fluid border-radius p-4">
+                                </a>
                             </div>
                             <div class="card-body">
                                 <h3 class="card-title">Trending</h3>
@@ -136,7 +149,9 @@ require_once "Head.php";
                         <!-- Card 8-->
                         <div class="card mr-2 d-inline-block shadow-lg">
                             <div class="card-img-top">
+                                <a href="videoPlay.php">
                                 <img src="picture_for_web/hellsing.jpg" alt="animation picure" class="img-fluid border-radius p-4">
+                                </a>
                             </div>
                             <div class="card-body">
                                 <h3 class="card-title">Trending</h3>
@@ -151,7 +166,9 @@ require_once "Head.php";
                         <!-- Card 9-->
                         <div class="card mr-2 d-inline-block shadow-lg">
                             <div class="card-img-top">
+                                <a href="videoPlay.php">
                                 <img src="picture_for_web/inuashiki.jpg" alt="animation picure" class="img-fluid border-radius p-4">
+                                </a>
                             </div>
                             <div class="card-body">
                                 <h3 class="card-title">Trending</h3>
@@ -166,7 +183,9 @@ require_once "Head.php";
                         <!-- Card 7 -->
                         <div class="card mr-2 d-inline-block shadow-lg">
                             <div class="card-img-top">
+                                <a href="videoPlay.php">
                                 <img src="picture_for_web/kikis-delivery-service.jpg" alt="animation picure" class="img-fluid border-radius p-4">
+                                </a>
                             </div>
                             <div class="card-body">
                                 <h3 class="card-title">Trending</h3>
@@ -184,7 +203,9 @@ require_once "Head.php";
             <!-- card 8 -->
             <div class="card mr-2 d-inline-block shadow-lg">
                 <div class="card-img-top">
-                    <img src="picture_for_web/tarzan.jpg" alt="muha-sir" class="img-fluid border-radius p-4">
+                    <a href="videoPlay.php">
+                    <img src="picture_for_web/tarzan.jpg" alt="animation" class="img-fluid border-radius p-4">
+                    </a>
                 </div>
                 <div class="card-body">
                     <h3 class="card-title">Oldest</h3>
@@ -204,7 +225,9 @@ require_once "Head.php";
         <div class="col-md-4 col-12 text-center">
             <div class="card mr-2 d-inline-block shadow-lg">
                 <div class="card-img-top">
+                    <a href="videoPlay.php">
                     <img src="picture_for_web/demonSlayer.jpeg" alt="raiyan-sir" class="img-fluid border-radius p-4">
+                    </a>
                 </div>
                 <div class="card-body">
                     <h3 class="card-title">Newest</h3>
@@ -223,8 +246,10 @@ require_once "Head.php";
                         <!-- Card 2 -->
                         <div class="card mr-2 d-inline-block shadow-lg">
                             <div class="card-img-top">
-                                <img src="picture_for_web/sword_art_online.jpg" alt="muha-sir"
+                                <a href="videoPlay.php">
+                                <img src="picture_for_web/sword_art_online.jpg" alt="animation"
                                      class="img-fluid border-radius p-4">
+                                </a>
                             </div>
                             <div class="card-body">
                                 <h3 class="card-title">Trending</h3>
@@ -241,8 +266,10 @@ require_once "Head.php";
                         <!-- Card 3 -->
                         <div class="card mr-2 d-inline-block shadow-lg">
                             <div class="card-img-top">
+                                <a href="videoPlay.php">
                                 <img src="picture_for_web/AOT.jpg" alt="animation picure"
                                      class="img-fluid border-radius p-4">
+                                </a>
                             </div>
                             <div class="card-body">
                                 <h3 class="card-title">Trending</h3>
@@ -257,8 +284,10 @@ require_once "Head.php";
                         <!-- Card 4 -->
                         <div class="card mr-2 d-inline-block shadow-lg">
                             <div class="card-img-top">
+                                <a href="videoPlay.php">
                                 <img src="picture_for_web/tokyo_ghoul.jpg" alt="animation picure"
                                      class="img-fluid border-radius p-4">
+                                </a>
                             </div>
                             <div class="card-body">
                                 <h3 class="card-title">Trending</h3>
@@ -273,7 +302,9 @@ require_once "Head.php";
                         <!-- Card 5-->
                         <div class="card mr-2 d-inline-block shadow-lg">
                             <div class="card-img-top">
+                                <a href="videoPlay.php">
                                 <img src="picture_for_web/my_roommate.jpg" alt="animation picure" class="img-fluid border-radius p-4">
+                                </a>
                             </div>
                             <div class="card-body">
                                 <h3 class="card-title">Trending</h3>
@@ -288,7 +319,9 @@ require_once "Head.php";
                         <!-- Card 6-->
                         <div class="card mr-2 d-inline-block shadow-lg">
                             <div class="card-img-top">
+                                <a href="videoPlay.php">
                                 <img src="picture_for_web/baccano.jpg" alt="animation picure" class="img-fluid border-radius p-4">
+                                </a>
                             </div>
                             <div class="card-body">
                                 <h3 class="card-title">Trending</h3>
@@ -303,7 +336,9 @@ require_once "Head.php";
                         <!-- Card 6-->
                         <div class="card mr-2 d-inline-block shadow-lg">
                             <div class="card-img-top">
+                                <a href="videoPlay.php">
                                 <img src="picture_for_web/edenOfTheEast.jpg" alt="animation picure" class="img-fluid border-radius p-4">
+                                </a>
                             </div>
                             <div class="card-body">
                                 <h3 class="card-title">Trending</h3>
@@ -318,7 +353,9 @@ require_once "Head.php";
                         <!-- Card 7 -->
                         <div class="card mr-2 d-inline-block shadow-lg">
                             <div class="card-img-top">
+                                <a href="videoPlay.php">
                                 <img src="picture_for_web/castlevania.jpg" alt="animation picure" class="img-fluid border-radius p-4">
+                                </a>
                             </div>
                             <div class="card-body">
                                 <h3 class="card-title">Trending</h3>
@@ -336,7 +373,9 @@ require_once "Head.php";
             <!-- card 8 -->
             <div class="card mr-2 d-inline-block shadow-lg">
                 <div class="card-img-top">
-                    <img src="picture_for_web/deathNote.jpg" alt="muha-sir" class="img-fluid border-radius p-4">
+                    <a href="videoPlay.php">
+                    <img src="picture_for_web/deathNote.jpg" alt="animation" class="img-fluid border-radius p-4">
+                    </a>
                 </div>
                 <div class="card-body">
                     <h3 class="card-title">Oldest</h3>
@@ -356,7 +395,9 @@ require_once "Head.php";
         <div class="col-md-4 col-12 text-center">
             <div class="card mr-2 d-inline-block shadow-lg">
                 <div class="card-img-top">
+                    <a href="videoPlay.php">
                     <img src="picture_for_web/WhiskarAway.jpg" alt="raiyan-sir" class="img-fluid border-radius p-4">
+                    </a>
                 </div>
                 <div class="card-body">
                     <h3 class="card-title">Newest</h3>
@@ -375,8 +416,10 @@ require_once "Head.php";
                         <!-- Card 2 -->
                         <div class="card mr-2 d-inline-block shadow-lg">
                             <div class="card-img-top">
-                                <img src="picture_for_web/children.jpg" alt="muha-sir"
+                                <a href="videoPlay.php">
+                                <img src="picture_for_web/children.jpg" alt="animation"
                                      class="img-fluid border-radius p-4">
+                                </a>
                             </div>
                             <div class="card-body">
                                 <h3 class="card-title">Trending</h3>
@@ -393,8 +436,9 @@ require_once "Head.php";
                         <!-- Card 3 -->
                         <div class="card mr-2 d-inline-block shadow-lg">
                             <div class="card-img-top">
+                                <a href="videoPlay.php">
                                 <img src="picture_for_web/fireWorks.jpg" alt="animation picure"
-                                     class="img-fluid border-radius p-4">
+                                     class="img-fluid border-radius p-4"></a>
                             </div>
                             <div class="card-body">
                                 <h3 class="card-title">Trending</h3>
@@ -409,8 +453,10 @@ require_once "Head.php";
                         <!-- Card 4 -->
                         <div class="card mr-2 d-inline-block shadow-lg">
                             <div class="card-img-top">
+                                <a href="videoPlay.php">
                                 <img src="picture_for_web/patemaInverted.jpg" alt="animation picure"
                                      class="img-fluid border-radius p-4">
+                                </a>
                             </div>
                             <div class="card-body">
                                 <h3 class="card-title">Trending</h3>
@@ -425,7 +471,9 @@ require_once "Head.php";
                         <!-- Card 5-->
                         <div class="card mr-2 d-inline-block shadow-lg">
                             <div class="card-img-top">
+                                <a href="videoPlay.php">
                                 <img src="picture_for_web/TomakoLoveStory.jpg" alt="animation picure" class="img-fluid border-radius p-4">
+                                </a>
                             </div>
                             <div class="card-body">
                                 <h3 class="card-title">Trending</h3>
@@ -440,7 +488,9 @@ require_once "Head.php";
                         <!-- Card 6-->
                         <div class="card mr-2 d-inline-block shadow-lg">
                             <div class="card-img-top">
+                                <a href="videoPlay.php">
                                 <img src="picture_for_web/tangland.jpg" alt="animation picure" class="img-fluid border-radius p-4">
+                                </a>
                             </div>
                             <div class="card-body">
                                 <h3 class="card-title">Trending</h3>
@@ -455,7 +505,9 @@ require_once "Head.php";
                         <!-- Card 6-->
                         <div class="card mr-2 d-inline-block shadow-lg">
                             <div class="card-img-top">
+                                <a href="videoPlay.php">
                                 <img src="picture_for_web/silentVoice.jpg" alt="animation picure" class="img-fluid border-radius p-4">
+                                </a>
                             </div>
                             <div class="card-body">
                                 <h3 class="card-title">Trending</h3>
@@ -470,7 +522,9 @@ require_once "Head.php";
                         <!-- Card 6-->
                         <div class="card mr-2 d-inline-block shadow-lg">
                             <div class="card-img-top">
+                                <a href="videoPlay.php">
                                 <img src="picture_for_web/Napping%20Princess.jpg" alt="animation picure" class="img-fluid border-radius p-4">
+                                </a>
                             </div>
                             <div class="card-body">
                                 <h3 class="card-title">Trending</h3>
@@ -485,7 +539,9 @@ require_once "Head.php";
                         <!-- Card 6-->
                         <div class="card mr-2 d-inline-block shadow-lg">
                             <div class="card-img-top">
+                                <a href="videoPlay.php">
                                 <img src="picture_for_web/moana.jpg" alt="animation picure" class="img-fluid border-radius p-4">
+                                </a>
                             </div>
                             <div class="card-body">
                                 <h3 class="card-title">Trending</h3>
@@ -500,7 +556,9 @@ require_once "Head.php";
                         <!-- Card 6-->
                         <div class="card mr-2 d-inline-block shadow-lg">
                             <div class="card-img-top">
+                                <a href="videoPlay.php">
                                 <img src="picture_for_web/rainyDay.jpg" alt="animation picure" class="img-fluid border-radius p-4">
+                                </a>
                             </div>
                             <div class="card-body">
                                 <h3 class="card-title">Trending</h3>
@@ -515,7 +573,9 @@ require_once "Head.php";
                         <!-- Card 7 -->
                         <div class="card mr-2 d-inline-block shadow-lg">
                             <div class="card-img-top">
+                                <a href="videoPlay.php">
                                 <img src="picture_for_web/How-To-Train-Your-Dragon.jpg" alt="animation picure" class="img-fluid border-radius p-4">
+                                </a>
                             </div>
                             <div class="card-body">
                                 <h3 class="card-title">Trending</h3>
@@ -533,7 +593,9 @@ require_once "Head.php";
             <!-- card 8 -->
             <div class="card mr-2 d-inline-block shadow-lg">
                 <div class="card-img-top">
-                    <img src="picture_for_web/kimi_no_na_wa.jpg" alt="muha-sir" class="img-fluid border-radius p-4">
+                    <a href="videoPlay.php">
+                    <img src="picture_for_web/kimi_no_na_wa.jpg" alt="animation" class="img-fluid border-radius p-4">
+                    </a>
                 </div>
                 <div class="card-body">
                     <h3 class="card-title">Oldest</h3>

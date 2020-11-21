@@ -2,11 +2,10 @@
 require_once "head_For_signIn_Login.php";
 $info = "";
 ?>
-<span id="indo"><?php $info ?></span>
+<span id="info"><?php echo $_SESSION['status']; ?></span>
 <div id="info-login"></div>
 <div class="form-wrapper-for-LogIn">
     <form action="Home.php" method="post" enctype='multipart/form-data'>
-
         <div class="container login-left">
             <div class="login-box">
                 <div class="loginStyle">
@@ -17,13 +16,13 @@ $info = "";
                         <hr class="mb-3">
 
                         <label for="email"><b>Email Address</b></label>
-                        <input class="form-control" id="email" type="email" name="email" required>
+                        <input class="form-control" id="emailForLogIn" type="email" name="email" required>
 
                         <label for="password"><b>Password</b></label>
-                        <input class="form-control" id="password" type="password" name="password" required>
+                        <input class="form-control" id="passwordForLogIn" type="password" name="password" required>
 
                         <label for="cpassword"><b>Confirm Password</b></label>
-                        <input class="form-control" id="cpassword" type="password" name="cpassword" required>
+                        <input class="form-control" id="cpasswordForLogIn" type="password" name="cpassword" required>
 
                         <div class="form-group">
                             <label for="g-recaptcha"><b>Recaptcha</b></label>

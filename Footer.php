@@ -97,13 +97,14 @@
         </div>
 
         <hr class='bg-dark'>
+        <center>
         <div class='copyright pull-center'> © Sajid-animation | ProjectWork 2020 -
             <script>
                 document.write(new Date().getFullYear())
             </script>
         </div>
+        </center>
     </div>
 </footer>
-
 </body>
 </html>
