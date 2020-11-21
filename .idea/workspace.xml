@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="86c14f2f-6044-4c5c-a9e2-a182f5231d4b" name="Default Changelist" comment="4rth commit">
+      <change afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/includes/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="composer.json" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.4">
+    <include_path>
+      <path value="$PROJECT_DIR$/includes/vendor/fig/http-message-util" />
+      <path value="$PROJECT_DIR$/includes/vendor/psr/cache" />
+      <path value="$PROJECT_DIR$/includes/vendor/psr/http-client" />
+      <path value="$PROJECT_DIR$/includes/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/includes/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/includes/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/includes/vendor/rize/uri-template" />
+      <path value="$PROJECT_DIR$/includes/vendor/google/auth" />
+      <path value="$PROJECT_DIR$/includes/vendor/google/cloud-core" />
+      <path value="$PROJECT_DIR$/includes/vendor/google/cloud-storage" />
+      <path value="$PROJECT_DIR$/includes/vendor/google/crc32" />
+      <path value="$PROJECT_DIR$/includes/vendor/kreait/clock" />
+      <path value="$PROJECT_DIR$/includes/vendor/kreait/firebase-php" />
+      <path value="$PROJECT_DIR$/includes/vendor/kreait/firebase-tokens" />
+      <path value="$PROJECT_DIR$/includes/vendor/giggsey/libphonenumber-for-php" />
+      <path value="$PROJECT_DIR$/includes/vendor/giggsey/locale" />
+      <path value="$PROJECT_DIR$/includes/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/includes/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/includes/vendor/firebase/php-jwt" />
+      <path value="$PROJECT_DIR$/includes/vendor/lcobucci/jwt" />
+      <path value="$PROJECT_DIR$/includes/vendor/mtdowling/jmespath.php" />
+      <path value="$PROJECT_DIR$/includes/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/includes/vendor/riverline/multipart-parser" />
+      <path value="$PROJECT_DIR$/includes/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/includes/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/includes/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/includes/vendor/composer" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1jYbWoSmGlHp3i4MHmrZQUcA1Cx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="registraation.php" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/web dev project part 2/registraation.php" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.registraation.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="86c14f2f-6044-4c5c-a9e2-a182f5231d4b" name="Default Changelist" comment="" />
+      <created>1603984007509</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603984007509</updated>
+      <workItem from="1603984009353" duration="2750000" />
+      <workItem from="1604000693464" duration="4352000" />
+      <workItem from="1604033185298" duration="1638000" />
+      <workItem from="1604227625029" duration="5668000" />
+      <workItem from="1604235219927" duration="20227000" />
+      <workItem from="1604462758539" duration="35000" />
+      <workItem from="1605595982169" duration="1323000" />
+      <workItem from="1605842344988" duration="421000" />
+      <workItem from="1605842850839" duration="7531000" />
+      <workItem from="1605871582585" duration="14947000" />
+      <workItem from="1605892620100" duration="2097000" />
+      <workItem from="1605896607100" duration="6277000" />
+      <workItem from="1605932408107" duration="9982000" />
+      <workItem from="1605947302437" duration="8543000" />
+    </task>
+    <task id="LOCAL-00001" summary="1st commit">
+      <created>1604040191426</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1604040191426</updated>
+    </task>
+    <task id="LOCAL-00002" summary="2nd commit">
+      <created>1604261352212</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1604261352212</updated>
+    </task>
+    <task id="LOCAL-00003" summary="3rd commit">
+      <created>1605966388243</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1605966388243</updated>
+    </task>
+    <task id="LOCAL-00004" summary="4rth commit">
+      <created>1605967090476</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1605967090476</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="1st commit" />
+    <MESSAGE value="2nd commit" />
+    <MESSAGE value="3rd commit" />
+    <MESSAGE value="4rth commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="4rth commit" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="392" y="0" key="#PHP" timestamp="1603986287701">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="392" y="0" key="#PHP/0.0.1366.728@0.0.1366.728" timestamp="1603986287701" />
+    <state x="453" y="119" key="FileChooserDialogImpl" timestamp="1603986279704">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="453" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1603986279704" />
+    <state x="507" y="282" key="NewPhpFileDialog" timestamp="1605899017845">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="507" y="282" key="NewPhpFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1605899017845" />
+    <state x="174" y="8" key="SettingsEditor" timestamp="1605851085912">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="174" y="8" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1605851085912" />
+    <state x="265" y="92" key="Vcs.Push.Dialog.v2" timestamp="1605967126520">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="265" y="92" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1605967126520" />
+    <state width="600" height="440" key="javadoc.popup" timestamp="1605933148142">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="600" height="440" key="javadoc.popup/0.0.1366.728@0.0.1366.728" timestamp="1605933148142" />
+  </component>
+</project>
