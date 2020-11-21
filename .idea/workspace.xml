@@ -20,7 +20,57 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="86c14f2f-6044-4c5c-a9e2-a182f5231d4b" name="Default Changelist" comment="4rth commit">
+      <change afterPath="$PROJECT_DIR$/includes.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/Footer.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Headerr.php" beforeDir="false" afterPath="$PROJECT_DIR$/Headerr.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Home.php" beforeDir="false" afterPath="$PROJECT_DIR$/Home.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Log_In.php" beforeDir="false" afterPath="$PROJECT_DIR$/Log_In.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dbconfig.php" beforeDir="false" afterPath="$PROJECT_DIR$/dbconfig.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/includes/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/includes/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logIn_SignIn.css" beforeDir="false" afterPath="$PROJECT_DIR$/logIn_SignIn.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture_for_web/AOT.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/AOT.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture_for_web/Bamboo.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/Bamboo.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture_for_web/How-To-Train-Your-Dragon.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/How-To-Train-Your-Dragon.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture_for_web/Napping Princess.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/Napping Princess.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture_for_web/TomakoLoveStory.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/TomakoLoveStory.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture_for_web/WhiskarAway.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/WhiskarAway.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture_for_web/ajin_the_demi_human.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/ajin_the_demi_human.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture_for_web/aladin.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/aladin.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture_for_web/attackOnTtatanGirl.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/attackOnTtatanGirl.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture_for_web/baccano.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/baccano.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture_for_web/castlevania.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/castlevania.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture_for_web/children.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/children.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture_for_web/deathNote.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/deathNote.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture_for_web/demonSlayer.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/images/demonSlayer.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture_for_web/edenOfTheEast.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/edenOfTheEast.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture_for_web/fireWorks.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/fireWorks.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture_for_web/fromUponThePoppyHill.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/fromUponThePoppyHill.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture_for_web/hellsing.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/hellsing.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture_for_web/howls-moving-castle-poster.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/howls-moving-castle-poster.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture_for_web/inThisCornarOfTheWorld.webp" beforeDir="false" afterPath="$PROJECT_DIR$/images/inThisCornarOfTheWorld.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture_for_web/inuashiki.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/inuashiki.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture_for_web/kikis-delivery-service.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/kikis-delivery-service.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture_for_web/kimi_no_na_wa.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/kimi_no_na_wa.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture_for_web/logInTokyoGhoul.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/logInTokyoGhoul.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture_for_web/moana.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/moana.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture_for_web/my_neighbour_totaro.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/my_neighbour_totaro.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture_for_web/my_roommate.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/my_roommate.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture_for_web/patemaInverted.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/patemaInverted.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture_for_web/rainyDay.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/rainyDay.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture_for_web/re-zero-for-logIn.webp" beforeDir="false" afterPath="$PROJECT_DIR$/images/re-zero-for-logIn.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture_for_web/sajid.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/sajid.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture_for_web/silentVoice.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/silentVoice.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture_for_web/spIrited_away.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/spIrited_away.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture_for_web/sword_art_online.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/sword_art_online.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture_for_web/tangland.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/tangland.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture_for_web/tarzan.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/tarzan.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture_for_web/tokyo_ghoul.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/tokyo_ghoul.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture_for_web/whisper.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/whisper.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/picture_for_web/wind_Rises.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/wind_Rises.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/registrationProcess.php" beforeDir="false" afterPath="$PROJECT_DIR$/registrationProcess.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/videoPlay.php" beforeDir="false" afterPath="$PROJECT_DIR$/videoPlay.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -122,6 +172,7 @@
       <workItem from="1605896607100" duration="6277000" />
       <workItem from="1605932408107" duration="9982000" />
       <workItem from="1605947302437" duration="9199000" />
+      <workItem from="1605974840357" duration="8257000" />
     </task>
     <task id="LOCAL-00001" summary="1st commit">
       <created>1604040191426</created>

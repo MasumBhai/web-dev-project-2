@@ -1,6 +1,6 @@
 <?php
 session_start();
-
+include ('dbconfig.php');
 require __DIR__ . '/includes/vendor/autoload.php';
 
 use Kreait\Firebase\Factory;
@@ -67,14 +67,14 @@ if (isset($_POST['create'])) {
     }
 
     if($flag == 1){
-        $data = [
-            'username' => $username,
-            'phoneNumber' => $phonenumber,
-            'email' => $email,
-            'password' => $password,
-        ];
-        $ref = 'user/';
-        $postData = $database->getReference($ref)->push();
+//        $data = [
+//            'username' => $username,
+//            'phoneNumber' => $phonenumber,
+//            'email' => $email,
+//            'password' => $password,
+//        ];
+//        $ref = 'user/';
+//        $postData = $database->getReference($ref)->push();
 
         //now cheking
         if($postData){

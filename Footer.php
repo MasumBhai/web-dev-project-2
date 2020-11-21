@@ -8,7 +8,7 @@
         <div class="content text-right"></div>
         <div class='content'>
             <div class='row'>
-                <div class='col-md-3'><a href='index.html'>
+                <div class='col-md-3'><a href='index.php'>
                         <noscript><img
                                 src='../media.discordapp.net/attachments/576020164403920907/581092016847323148/awd2a3ad.png?width=403&amp;height=403'
                                 height=60 width=auto></noscript>

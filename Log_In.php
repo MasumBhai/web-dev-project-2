@@ -56,3 +56,6 @@ if (isset($_POST['log_in'])) {
     }
 }
 ?>
+<?php
+if(isset($_POST['']))
+?>

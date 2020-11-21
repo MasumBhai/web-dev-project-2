@@ -7,13 +7,10 @@ require_once "Head.php";
         <div class="flip" id="rightSide">
             <div class="flip flip-vertical">
                 <div class="front"
-                     style="background-image: url('picture_for_web/tokyo_ghoul.jpg')">
+                     style="background-image: url('images/spIrited_away.jpg')">
                 </div>
                 <div class="back">
-                    <h2>Anime name</h2>
-                    <p>Good tools make application development quicker and easier to maintain than if you did everything
-                        by
-                        hand..</p>
+                    <p>10-year-old Chihiro and her parents stumble upon a seemingly abandoned amusement park.After her parents are turned into giant pigs, Chihiro meets the mysterious Haku,who explains that the park is a resort for supernatural beings who need a break from their time spent in the earthly realm and that she must work there to free herself and her parents.</p>
                 </div>
             </div>
         </div>
@@ -25,7 +22,7 @@ require_once "Head.php";
                         class="embed-responsive-item" FRAMEBORDER=0 MARGINWIDTH=0 MARGINHEIGHT=0 SCROLLING=NO
                         WIDTH=680 HEIGHT=390 allowfullscreen webkitallowfullscreen=true
                         mozallowfullscreen=true></IFRAME>-->
-                <iframe src="https://www.youtube.com/embed/NUYvbT6vTPs" frameborder="0" MARGINWIDTH=0 MARGINHEIGHT=0 SCROLLING=NO
+                <iframe src="https://www.youtube.com/embed/VGVXaC4U4_A" frameborder="0" MARGINWIDTH=0 MARGINHEIGHT=0 SCROLLING=NO
                         WIDTH=680 HEIGHT=390 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                         allowfullscreen webkitallowfullscreen=true></iframe>
         </div>
@@ -112,7 +109,7 @@ require_once "Head.php";
                 width: inherit;
                 background-size: cover !important;
                 background-position: center !important;
-                height: 220px;
+                height: 240px;
                 padding: 1em 2em;
                 background: #313131;
                 border-radius: 10px;

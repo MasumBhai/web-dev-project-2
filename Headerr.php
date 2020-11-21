@@ -6,7 +6,7 @@
         <div class="container-fluid" style='max-width: 1140px'>
             <div class="navbar-translate"><a class="navbar-brand" href="#">
                     <noscript><img class="img-responsive" height=40 width=40
-                                   src="picture_for_web/sajid.jpg"/>
+                                   src="images/sajid.jpg"/>
                     </noscript>
                 <button class="navbar-toggler" type="button" data-toggle="collapse" aria-expanded="false"
                         aria-label="Toggle navigation"><span class="sr-only">Toggle navigation</span> <span
@@ -18,10 +18,11 @@
                     <li class="nav-item mob-av">
                         <center><a class="navbar-brand" href="#">
                                 <noscript><img height=40 width=40
-                                               src="picture_for_web/sajid.jpg"/></noscript>
+                                               src="images/sajid.jpg"/></noscript>
                                 <img class="lazyload" height=40 width=40
-                                     src='picture_for_web/sajid.jpg'
-                                     data-src="picture_for_web/sajid.jpg"/></a></center>
+                                     src='images/sajid.jpg'
+                                     data-src="assets/sajid.jpg"/></a></center>
+                                     data-src="assets/sajid.jpg"/></a></center>
                     </li>
                     <li class="nav-item"><a href="#" class="nav-link"><i class="fa fa-home"
                                                                                   aria-hidden="true"></i>Home</a></li>
@@ -62,7 +63,7 @@
                                                                                                href="https://lite.animevibe.tv/">AnimeVibe
                                 Lite</a> </div>
                     </li>
-                    <li class="nav-item toggle-search"><a href="index.html" class="nav-link"><i
+                    <li class="nav-item toggle-search"><a href="index.php" class="nav-link"><i
                                     class="fa fa-user" aria-hidden="true"></i> Profile</a></li>
                 </ul>
                 <form class="form-inline ml-auto has-white" role="search" method="get" id="searchform"
